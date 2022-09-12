@@ -1,5 +1,5 @@
 # micro-services 
-Sample micro-services implementaion using spring cloud.
+Sample repo for microservices implementation based on spring cloud
 
 
 
