@@ -4,7 +4,7 @@ Sample repo for microservices implementation based on spring cloud
 
 # How to run the project
 
-1. makes sure you have docker installed in you local machine.
+1. makes sure you have docker installed in your local machine.
 2. executes docker-compose up 
 
 
