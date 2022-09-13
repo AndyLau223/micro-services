@@ -1,6 +1,13 @@
 # micro-services 
 Sample repo for microservices implementation based on spring cloud
 
+1. Feign 
+2. Api Gateway
+3. Resilience4j
+4. Eureka
+5. Zipkin
+6. Rabbitmq
+
 
 # How to run the project
 
