@@ -8,7 +8,7 @@ Sample repo for microservices implementation based on spring cloud
 2. executes docker-compose up 
 
 
-#URLS
+# URLS
 Currency Exchange Service
 
 http://localhost:8000/currency-exchange/from/USD/to/INR
