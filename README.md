@@ -1,5 +1,5 @@
 # micro-services 
-Sample repo for microservices implementation based on spring cloud
+Simple implementaion of microservice. 
 
 1. Feign 
 2. Api Gateway
